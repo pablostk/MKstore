@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+* {
+  font-family: 'EB Garamond', serif;
+  background-color: red;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.p1 {
+  font-size: 15px; color: black;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+  text-align: left;
+
+}
+
+.p2 {
+  font-size: 15px; color: darkslategray;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+  margin: 20px;
+  padding: 10px;
+  border-color: black;
+  border-style: groove;
+  align-items: center;
+}
+
+.p3 {
+  font-size: 15px; color: darkslategray;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+  margin: 20px;
+  padding: 10px;
+  border-color: black;
+  border-style: groove;
+  align-items: center;
+}
+
+.p4 {
+  font-size: 15px; color: darkslategray;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+  margin: 20px;
+  padding: 10px;
+  border-color: black;
+  border-style: groove;
+  align-items: center;
+}
+
+.background {
+  background-image:image-set(background-image);
+}
